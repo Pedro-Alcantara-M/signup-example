@@ -1,13 +1,24 @@
-# React + TypeScript + Vite
+# Exemplo SignUp
 
-to install
+## Instalação
 
-```yarn install
+
+Primeiramente clone o projeto deste repositório
+
+```bash
+  git clone https://github.com/Pedro-Alcantara-M/signup-example.git
 ```
 
-and 
+Instale projeto com yarn
 
-```yarn start
+```bash
+  yarn install
 ```
 
-to initiate the sistem
+Inicie o projeto 
+
+```bash
+  yarn start
+```
+
+E abra o navegadoor com o link gerado pelo vite.
